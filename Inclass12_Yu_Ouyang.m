@@ -1,5 +1,12 @@
 %Inclass 12. 
 
+%GB comments
+1 100
+2 75 overly aggressive in the threshold. You lose a majority of your cells
+3 90 while you used a morphological operation, you could have used more to improve your mask. 
+4 100
+overall 91
+
 % Continue with the set of images you used for inclass 11, the same time 
 % point (t = 30)
 
